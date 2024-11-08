@@ -58,6 +58,7 @@ a.nav-link.active-link::after {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  width: 100%;
 }
 .jumbotron-title {
   position: relative;

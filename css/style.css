@@ -192,6 +192,9 @@ footer section section div.col-md-3 ul li a:hover {
     left: 20rem;
     top: 2rem;
   }
+  .cta-jumbotron {
+    width: 60%;
+  }
 }
 @media only screen and (max-width: 470px) {
   .foto-container::after {
@@ -199,5 +202,8 @@ footer section section div.col-md-3 ul li a:hover {
     top: 2rem;
     padding: 0.5rem 1rem;
     font-size: 0.7rem;
+  }
+  .cta-jumbotron {
+    width: 80%;
   }
 }
